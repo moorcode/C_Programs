@@ -1,6 +1,6 @@
 // CHALLENGE 2
 // This is CS50
-// Prompt user for 1-8 (inclusive) integer n and create right aligned pyramid beside left aligned pyramid with 2 spaces in between
+// Prompt user for 1-8 (inclusive) integer n and create right aligned pyramid of height n beside left aligned pyramid of height n with 2 spaces in between
 
 #include <stdio.h>
 #include <cs50.h>
